@@ -7,7 +7,7 @@ Our project is geared towards providing users with powerful tools to enhance the
 
 ## Installation & Usage
 
-Getting started is easy. First, download the latest version of Blender from the official website. Next, download the Blender Add-On installer from the release page, run the installer and it will automatically download the add-ons and their usage instructions. Finally, open Blender, navigate to the "Preferences" menu in the top left corner, and click "Install." Select the add-ons from your local directory and click "Activate" to enable them.
+Getting started is easy. First, download the latest version of Blender from the official website. Next, download the Blender Add-On installer from the releases page, run the installer and it will automatically download the add-ons and their usage instructions. Finally, open Blender, navigate to the "Preferences" menu in the top left corner, and click "Install." Select the add-ons from your local directory and click "Activate" to enable them.
 
 ## Feature Highlights
 
