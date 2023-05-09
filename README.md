@@ -32,4 +32,4 @@ Our add-ons are licensed under the MIT License, which allows for the free distri
 
 ## Conclusion
 
-Our Blender Add-Ons project is committed to providing powerful tools to enhance the Blender experience for free. We aim to help users save money and provide a platform where Blender enthusiasts can contribute to the development of add-ons that will provide value to the community. Join us in our mission to make Blender even better! 
+Our Blender Add-Ons project is committed to providing powerful tools to enhance the Blender experience for free. We aim to help users save money and provide a platform where Blender enthusiasts can contribute to the development of add-ons that will provide value to the community.
