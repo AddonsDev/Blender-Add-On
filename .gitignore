@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Deprecated ARA Rig manager
+# Deprecated Blender Add-on
 deprecated_ara_rm
 
 # Builds
