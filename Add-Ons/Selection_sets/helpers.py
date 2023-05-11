@@ -11,7 +11,7 @@ import json
 #----------------------------------------------------------------#
 
 BL_ADDONS_PATH = bpy.utils.user_resource("SCRIPTS") + "\\addons"
-ADDON_DATA_PATH = BL_ADDONS_PATH + "\\ara_rig_manager\\data"
+ADDON_DATA_PATH = BL_ADDONS_PATH + "\\Blender Add-On manager\\data"
 STD_SS_JSON = ADDON_DATA_PATH + "\\selection_sets.json"
 
 #----------------------------------------------------------------#
