@@ -8,7 +8,7 @@ from bpy.types import Panel, PropertyGroup
 #----------------------------------------------------------------#
 
 class ARAPanel:
-    """ARA Rig Manager UI Panel"""
+    """Blender Add-On UI Panel"""
     
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
@@ -16,10 +16,10 @@ class ARAPanel:
     bl_context = "posemode"
 
 
-class ARA_PT_MenuMain(Panel, ARAPanel):
-    """ARA Rig Manager Main Menu Panel"""
+class AMenuMain(Panel, ARAPanel):
+    """ Blender Add-On Main Menu Panel"""
     
-    bl_label = "ARA Rig Manager"
+    bl_label = "Blender Add-On"
     
     def draw(self, context):
         layout = self.layout
@@ -28,7 +28,7 @@ class ARA_PT_MenuMain(Panel, ARAPanel):
 
 
 class ARA_Properties(PropertyGroup):
-    """ARA Rig Manager Properties"""
+    """Blender Add-On Properties"""
     
     external_bone_groups: BoolProperty(
         name="External Bone Groups",
