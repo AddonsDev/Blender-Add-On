@@ -1,5 +1,5 @@
 """
-ARA Rig Manager add-on initializer
+blender add-on initializer
 """
 
 bl_info = {
@@ -15,7 +15,7 @@ bl_info = {
 import bpy
 
 
-from . import ui
+from . import ui.
 from . import bone_groups
 from . import selection_sets
 
